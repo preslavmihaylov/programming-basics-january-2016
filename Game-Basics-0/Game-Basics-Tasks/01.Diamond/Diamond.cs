@@ -35,17 +35,7 @@ class Game
         }
 
         InitSettings();
-        PrintOnPosition(row, col, "*", ConsoleColor.Red);
-        PrintOnPosition(row - 1, col + 1, "*", ConsoleColor.Red);
-        PrintOnPosition(row - 2, col + 2, "*", ConsoleColor.Red);
-
-        PrintOnPosition(row - 1, col + 3, "*", ConsoleColor.Red);
-        PrintOnPosition(row, col + 4, "*", ConsoleColor.Red);
-
-        PrintOnPosition(row + 1, col + 3, "*", ConsoleColor.Red);
-        PrintOnPosition(row + 2, col + 2, "*", ConsoleColor.Red);
-
-        PrintOnPosition(row + 1, col + 1, "*", ConsoleColor.Red);
+        // TODO: Print a star
 
         Console.ReadLine();
     }
