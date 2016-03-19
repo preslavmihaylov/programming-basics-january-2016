@@ -1,0 +1,5 @@
+D:\Programming\lectures\programming-basics-january-2016\Gunfight\Gunfight\bin\Debug\Gunfight.exe
+D:\Programming\lectures\programming-basics-january-2016\Gunfight\Gunfight\bin\Debug\Gunfight.pdb
+D:\Programming\lectures\programming-basics-january-2016\Gunfight\Gunfight\obj\Debug\Gunfight.csprojResolveAssemblyReference.cache
+D:\Programming\lectures\programming-basics-january-2016\Gunfight\Gunfight\obj\Debug\Gunfight.exe
+D:\Programming\lectures\programming-basics-january-2016\Gunfight\Gunfight\obj\Debug\Gunfight.pdb
